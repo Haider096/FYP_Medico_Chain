@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578091933334",
+    "project_id": "medico-chain-ff9a8",
+    "storage_bucket": "medico-chain-ff9a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578091933334:android:21247037b6911a5248acb7",
+        "android_client_info": {
+          "package_name": "com.xtremerz.medi_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578091933334-mbq0kstaf1kf4kvcfk07527afiejt60f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xtremerz.medi_care",
+            "certificate_hash": "d970cb759b559671140be6147ebb8468b3a0f598"
+          }
+        },
+        {
+          "client_id": "578091933334-b4fqtrdhu8mqk3793r6pthk1k113bcc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIHR-uVBpFCSXQaK9pR8BO6dylIQtICw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578091933334-b4fqtrdhu8mqk3793r6pthk1k113bcc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
